@@ -1,0 +1,11 @@
+{
+  "name": "ERP API - Development",
+  "db": {
+    "uri": "mongodb://localhost:27017/ERP",
+    "password": 1234
+  },
+  "mail": {
+    "host": "sakthivelt1602@gmail.com",
+    "password": "patf lhqp hyvc evrx"
+  }
+}

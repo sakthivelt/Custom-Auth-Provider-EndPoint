@@ -1,0 +1,6 @@
+{
+  "name": "ERP API - production",
+  "db": {
+    "password": 1234
+  }
+}
